@@ -1,0 +1,369 @@
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Form1.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.MediaPlayer.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\bin\Debug\Interop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\obj\Debug\Interop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Setting.resources
+D:\kuliah\KP\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+D:\kuliah\KP\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+D:\kuliah\KP\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+D:\kuliah\KP\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+D:\kuliah\KP\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\kuliah\KP\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+D:\kuliah\KP\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+D:\kuliah\KP\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\kuliah\KP\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+D:\kuliah\KP\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.MediaPlayer.resources
+D:\kuliah\KP\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+D:\kuliah\KP\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+D:\kuliah\KP\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+D:\kuliah\KP\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+D:\kuliah\KP\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\bin\Debug\Interop.AXVLC.dll
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.AXVLC.dll
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\obj\Debug\Interop.AXVLC.dll
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.AXVLC.dll
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Form1.resources
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.MediaPlayer.resources
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Setting.resources
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+D:\Kape\VideoPlayer (3)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\bin\Debug\Interop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\obj\Debug\Interop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Form1.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.MediaPlayer.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Setting.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\ini\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+D:\Kape\VideoPlayerFix\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+D:\Kape\VideoPlayerFix\VideoPlayer\VideoPlayer\obj\Debug\Interop.AXVLC.dll
+D:\Kape\VideoPlayerFix\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Kape\VideoPlayerFix\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.AXVLC.dll
+D:\Kape\VideoPlayerFix\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Kape\VideoPlayerFix\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+D:\Kape\VideoPlayerFix\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.MediaPlayer.resources
+D:\Kape\VideoPlayerFix\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+D:\Kape\VideoPlayerFix\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+D:\Kape\VideoPlayerFix\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+D:\Kape\VideoPlayerFix\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+D:\Kape\VideoPlayerFix\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+D:\Kape\VideoPlayerFix\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+D:\Kape\VideoPlayerFix\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+D:\Kape\VideoPlayerFix\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+D:\Kape\VideoPlayerFix\VideoPlayer\VideoPlayer\bin\Debug\Interop.AXVLC.dll
+D:\Kape\VideoPlayerFix\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Kape\VideoPlayerFix\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.AXVLC.dll
+D:\Kape\VideoPlayerFix\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\kuliah\KP\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.data_list.resources
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\bin\Debug\Interop.AXVLC.dll
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.AXVLC.dll
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\obj\Debug\Interop.AXVLC.dll
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.AXVLC.dll
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.data_list.resources
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.MediaPlayer.resources
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+D:\Kape\VideoPlayer (5)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\bin\Debug\Interop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\obj\Debug\Interop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.data_list.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.MediaPlayer.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.SettingServer.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\fixdulu\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+D:\Kape\151118\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+D:\Kape\151118\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+D:\Kape\151118\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+D:\Kape\151118\VideoPlayer\VideoPlayer\bin\Debug\Interop.AXVLC.dll
+D:\Kape\151118\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Kape\151118\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.AXVLC.dll
+D:\Kape\151118\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Kape\151118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+D:\Kape\151118\VideoPlayer\VideoPlayer\obj\Debug\Interop.AXVLC.dll
+D:\Kape\151118\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Kape\151118\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.AXVLC.dll
+D:\Kape\151118\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Kape\151118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+D:\Kape\151118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.data_list.resources
+D:\Kape\151118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.MediaPlayer.resources
+D:\Kape\151118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+D:\Kape\151118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.SettingServer.resources
+D:\Kape\151118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+D:\Kape\151118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+D:\Kape\151118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+D:\Kape\151118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+D:\kuliah\palingbaru\baru\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+D:\kuliah\palingbaru\baru\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+D:\kuliah\palingbaru\baru\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+D:\kuliah\palingbaru\baru\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+D:\kuliah\palingbaru\baru\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\kuliah\palingbaru\baru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+D:\kuliah\palingbaru\baru\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+D:\kuliah\palingbaru\baru\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\kuliah\palingbaru\baru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+D:\kuliah\palingbaru\baru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.data_list.resources
+D:\kuliah\palingbaru\baru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.MediaPlayer.resources
+D:\kuliah\palingbaru\baru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+D:\kuliah\palingbaru\baru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.SettingServer.resources
+D:\kuliah\palingbaru\baru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+D:\kuliah\palingbaru\baru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+D:\kuliah\palingbaru\baru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+D:\kuliah\palingbaru\baru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+D:\Kape\221118\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+D:\Kape\221118\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+D:\Kape\221118\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+D:\Kape\221118\VideoPlayer\VideoPlayer\bin\Debug\Interop.AXVLC.dll
+D:\Kape\221118\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Kape\221118\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.AXVLC.dll
+D:\Kape\221118\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Kape\221118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+D:\Kape\221118\VideoPlayer\VideoPlayer\obj\Debug\Interop.AXVLC.dll
+D:\Kape\221118\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Kape\221118\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.AXVLC.dll
+D:\Kape\221118\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Kape\221118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+D:\Kape\221118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.data_list.resources
+D:\Kape\221118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.MediaPlayer.resources
+D:\Kape\221118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+D:\Kape\221118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.SettingServer.resources
+D:\Kape\221118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+D:\Kape\221118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+D:\Kape\221118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+D:\Kape\221118\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\bin\Debug\Interop.AXVLC.dll
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.AXVLC.dll
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\obj\Debug\Interop.AXVLC.dll
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.AXVLC.dll
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.data_list.resources
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.MediaPlayer.resources
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.SettingServer.resources
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+D:\Kape\231118(2)\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+D:\Kape\Last\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+D:\Kape\Last\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+D:\Kape\Last\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+D:\Kape\Last\VideoPlayer\VideoPlayer\bin\Debug\Interop.AXVLC.dll
+D:\Kape\Last\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Kape\Last\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.AXVLC.dll
+D:\Kape\Last\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Kape\Last\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+D:\Kape\Last\VideoPlayer\VideoPlayer\obj\Debug\Interop.AXVLC.dll
+D:\Kape\Last\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Kape\Last\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.AXVLC.dll
+D:\Kape\Last\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Kape\Last\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+D:\Kape\Last\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.data_list.resources
+D:\Kape\Last\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.MediaPlayer.resources
+D:\Kape\Last\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+D:\Kape\Last\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.SettingServer.resources
+D:\Kape\Last\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+D:\Kape\Last\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+D:\Kape\Last\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+D:\Kape\Last\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\bin\Debug\Interop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\obj\Debug\Interop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.data_list.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.MediaPlayer.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.SettingServer.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Help.resources
+D:\Kape\GAKTAULAGI\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+D:\Kape\GAKTAULAGI\VideoPlayer\bin\Debug\VideoPlayer.exe
+D:\Kape\GAKTAULAGI\VideoPlayer\bin\Debug\VideoPlayer.pdb
+D:\Kape\GAKTAULAGI\VideoPlayer\bin\Debug\Interop.AXVLC.dll
+D:\Kape\GAKTAULAGI\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Kape\GAKTAULAGI\VideoPlayer\bin\Debug\AxInterop.AXVLC.dll
+D:\Kape\GAKTAULAGI\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Kape\GAKTAULAGI\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+D:\Kape\GAKTAULAGI\VideoPlayer\obj\Debug\Interop.AXVLC.dll
+D:\Kape\GAKTAULAGI\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Kape\GAKTAULAGI\VideoPlayer\obj\Debug\AxInterop.AXVLC.dll
+D:\Kape\GAKTAULAGI\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Kape\GAKTAULAGI\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+D:\Kape\GAKTAULAGI\VideoPlayer\obj\Debug\VideoPlayer.data_list.resources
+D:\Kape\GAKTAULAGI\VideoPlayer\obj\Debug\VideoPlayer.Help.resources
+D:\Kape\GAKTAULAGI\VideoPlayer\obj\Debug\VideoPlayer.MediaPlayer.resources
+D:\Kape\GAKTAULAGI\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+D:\Kape\GAKTAULAGI\VideoPlayer\obj\Debug\VideoPlayer.SettingServer.resources
+D:\Kape\GAKTAULAGI\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+D:\Kape\GAKTAULAGI\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+D:\Kape\GAKTAULAGI\VideoPlayer\obj\Debug\VideoPlayer.exe
+D:\Kape\GAKTAULAGI\VideoPlayer\obj\Debug\VideoPlayer.pdb
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\bin\Debug\VideoPlayer.exe
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\bin\Debug\VideoPlayer.pdb
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\bin\Debug\Interop.AXVLC.dll
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\bin\Debug\AxInterop.AXVLC.dll
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\obj\Debug\Interop.AXVLC.dll
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\obj\Debug\AxInterop.AXVLC.dll
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\obj\Debug\VideoPlayer.data_list.resources
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\obj\Debug\VideoPlayer.Help.resources
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\obj\Debug\VideoPlayer.MediaPlayer.resources
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\obj\Debug\VideoPlayer.SettingServer.resources
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\obj\Debug\VideoPlayer.exe
+D:\kuliah\fix3\#salahperbaiki\VideoPlayer\obj\Debug\VideoPlayer.pdb
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\bin\Debug\Interop.AXVLC.dll
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.AXVLC.dll
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\obj\Debug\Interop.AXVLC.dll
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.AXVLC.dll
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.data_list.resources
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Help.resources
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.MediaPlayer.resources
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.SettingServer.resources
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+D:\Kape\Nambah lagi aja\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\bin\Debug\Interop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\obj\Debug\Interop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.data_list.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Help.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.MediaPlayer.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.SettingServer.resources
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+C:\Users\iqbal\Documents\Visual Studio 2017\Docoments\kiwbaru\barbar\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\bin\Debug\Interop.AXVLC.dll
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.AXVLC.dll
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\obj\Debug\Interop.AXVLC.dll
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.AXVLC.dll
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.data_list.resources
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Help.resources
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.MediaPlayer.resources
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.SettingServer.resources
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+D:\Kape\Coba lagi\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
